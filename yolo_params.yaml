@@ -1,0 +1,5 @@
+train: #pathbto training folder 
+val: #path to validation folder 
+test: #path to testing folder 
+nc:7
+names:['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']
