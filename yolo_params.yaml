@@ -1,4 +1,4 @@
-train: #pathbto training folder 
+train: #path to training folder 
 val: #path to validation folder 
 test: #path to testing folder 
 nc:7
